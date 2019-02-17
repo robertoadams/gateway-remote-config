@@ -1,0 +1,17 @@
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE70E711", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 25.24411939, 
+		"ref_longitude": 57.53952443, 
+		"ref_altitude": 5, 
+		"contact_email": "robert@adams.com.ar", 
+		"description": "RJAPYLORA Gateway" 
+	} 
+} 
